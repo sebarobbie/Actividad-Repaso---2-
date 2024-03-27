@@ -1,0 +1,14 @@
+D:\Coding\Repaso 27 Febrero Programacion\bin\Debug\net8.0\Repaso 27 Febrero Programacion.exe
+D:\Coding\Repaso 27 Febrero Programacion\bin\Debug\net8.0\Repaso 27 Febrero Programacion.deps.json
+D:\Coding\Repaso 27 Febrero Programacion\bin\Debug\net8.0\Repaso 27 Febrero Programacion.runtimeconfig.json
+D:\Coding\Repaso 27 Febrero Programacion\bin\Debug\net8.0\Repaso 27 Febrero Programacion.dll
+D:\Coding\Repaso 27 Febrero Programacion\bin\Debug\net8.0\Repaso 27 Febrero Programacion.pdb
+D:\Coding\Repaso 27 Febrero Programacion\obj\Debug\net8.0\Repaso 27 Febrero Programacion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\Repaso 27 Febrero Programacion\obj\Debug\net8.0\Repaso 27 Febrero Programacion.AssemblyInfoInputs.cache
+D:\Coding\Repaso 27 Febrero Programacion\obj\Debug\net8.0\Repaso 27 Febrero Programacion.AssemblyInfo.cs
+D:\Coding\Repaso 27 Febrero Programacion\obj\Debug\net8.0\Repaso 27 Febrero Programacion.csproj.CoreCompileInputs.cache
+D:\Coding\Repaso 27 Febrero Programacion\obj\Debug\net8.0\Repaso 27 Febrero Programacion.dll
+D:\Coding\Repaso 27 Febrero Programacion\obj\Debug\net8.0\refint\Repaso 27 Febrero Programacion.dll
+D:\Coding\Repaso 27 Febrero Programacion\obj\Debug\net8.0\Repaso 27 Febrero Programacion.pdb
+D:\Coding\Repaso 27 Febrero Programacion\obj\Debug\net8.0\Repaso 27 Febrero Programacion.genruntimeconfig.cache
+D:\Coding\Repaso 27 Febrero Programacion\obj\Debug\net8.0\ref\Repaso 27 Febrero Programacion.dll
